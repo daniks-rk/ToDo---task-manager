@@ -1,3 +1,3 @@
-int main(){
-    return 1;
+int sum(int a, int b){
+    return a+b;
 }
